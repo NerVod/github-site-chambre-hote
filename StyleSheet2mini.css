@@ -1,0 +1,42 @@
+/* *********************IMAGE PRINCIPALE*********************** */
+h1 {
+    font-size: 3em;
+}
+
+
+h3{
+    font-size: 1.5em;
+    }
+
+/* ************************PRESTATIONS****************************** */
+#prestations{
+    flex-direction: column;
+    align-content: center;
+}
+
+   /* ************************TOURISME******************************* */
+ #containerTourisme{
+     transform: scale(0.7);
+}  
+
+ /* ******************************CONTACT*************************** */
+
+ #Contact{
+     font-size: 1.5em;
+}
+
+
+
+input, textarea, button{
+        border: none;
+        width: 50%;
+        font-size: 1.em; 
+}
+
+textarea{
+        height: 100px;
+}
+
+    button{
+        font-size: 1.2em;    
+}
